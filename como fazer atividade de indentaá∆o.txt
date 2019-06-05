@@ -1,0 +1,8 @@
+1) Baixar o arquivo arquivo exercicio_1_indentar.zip na máquina;
+2) Salvar e Descompactar o arquivo exercicio_1_indentar.zip na máquina (Na pasta ALUNO E:);
+3) Abrir o arquivo index_indentar.html no editor brackets;
+4) Indentar o código;
+5) Salvar o arquivo depois de indentar o código corretamente;
+7) renomear arquivo exercicio_1_indentar para exercicio_1_indentar_meu_nome. Exemplo: exercicio_1_indentar_joao_pedro;
+8) Zipar novamente a pasta arquivo exercicio_1_indentar_meu_nome;
+7) Salvar/enviar o arquivo exercicio_1_indentar_meu_nome.zip para seu e-mail ou google drive para utilizar futuramente.  
